@@ -1,6 +1,6 @@
 {
   "name": "nuxt-define",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "One utility function for module authors to define compiler constants for all builders supported by Nuxt.",
   "type": "module",
   "license": "MIT",
