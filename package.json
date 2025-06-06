@@ -1,6 +1,6 @@
 {
   "name": "nuxt-define",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "One utility function for module authors to define compiler constants for all builders supported by Nuxt.",
   "type": "module",
   "license": "MIT",
@@ -30,7 +30,7 @@
   ],
   "scripts": {
     "build": "tsdown",
-    "release": "pnpm run bumpp && pnpm publish"
+    "release": "pnpm bumpp && pnpm publish"
   },
   "packageManager": "pnpm@10.11.1",
   "devDependencies": {
