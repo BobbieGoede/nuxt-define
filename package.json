@@ -40,5 +40,8 @@
     "tsdown": "^0.12.7",
     "typescript": "^5.8.3",
     "webpack": "^5.99.9"
+  },
+  "peerDependencies": {
+    "@nuxt/kit": "^3.0.0"
   }
 }
